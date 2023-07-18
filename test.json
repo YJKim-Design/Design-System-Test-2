@@ -2,7 +2,7 @@
   "global": {
     "Gray": {
       "20": {
-        "value": "#fbfbfb",
+        "value": "#000000",
         "type": "color"
       },
       "30": {
